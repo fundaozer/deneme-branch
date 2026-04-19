@@ -1,2 +1,1 @@
-ilk dosya
-dev branch içindeyim
+main değişiklik
